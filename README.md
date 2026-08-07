@@ -55,7 +55,13 @@
 
 ---
 
-Yo, this is Mahesh, full-stack developer from India. I do build projects in two ways. One is learning from docs, a traditional way. One is building projects from scratch using docs and open-source projects. Another thing is using AI, leveraging AI.
+## Yo, this is Mahesh, a full-stack developer from India.
+
+I build projects in two ways:
+*   **Number one:** Projects built from scratch using docs and open-source projects.
+*   **Number two:** Projects that are assisted by AI.
+
+---
 
 ### Projects built from scratch
 
