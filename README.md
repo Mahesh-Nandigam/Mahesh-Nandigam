@@ -14,60 +14,60 @@
 
 ---
 
-### 🚀 About Me
-Hello! I'm **Mahesh Nandigam**, a passionate developer dedicated to building high-impact software, exploring artificial intelligence, and contributing to the open-source community. I love coding, solving complex problems, and diving deep into new technologies.
-
----
-
-### 🛠️ Tech Stack
+<h3 align="center"><font color="#F706CF">Tech Stack</font></h3>
 
 <div align="center">
 
+<!-- Languages & Core -->
 <img src="https://img.shields.io/badge/Python-2B2B2B?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/C++-2B2B2B?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/C-2B2B2B?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 <img src="https://img.shields.io/badge/JavaScript-2B2B2B?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
 <img src="https://img.shields.io/badge/SQL-2B2B2B?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/HTML5_&_CSS3-2B2B2B?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 & CSS3" />
+
 <br/>
-<img src="https://img.shields.io/badge/FastAPI-2B2B2B?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+
+<!-- Frontend & Styling -->
+<img src="https://img.shields.io/badge/ReactJS-2B2B2B?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS" />
+<img src="https://img.shields.io/badge/Redux-2B2B2B?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-2B2B2B?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Bootstrap-2B2B2B?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+
+<br/>
+
+<!-- Backend & Server -->
 <img src="https://img.shields.io/badge/Node.js-2B2B2B?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/Express.js-2B2B2B?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/FastAPI-2B2B2B?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/Flask-2B2B2B?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 <img src="https://img.shields.io/badge/Bun-2B2B2B?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
+<img src="https://img.shields.io/badge/MongoDB-2B2B2B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+<br/>
+
+<!-- DevOps, Testing & Realtime -->
+<img src="https://img.shields.io/badge/Docker-2B2B2B?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-2B2B2B?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/AWS-2B2B2B?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/CI%2FCD-2B2B2B?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
+<img src="https://img.shields.io/badge/WebSockets-2B2B2B?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets" />
+<img src="https://img.shields.io/badge/WebRTC-2B2B2B?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
+<img src="https://img.shields.io/badge/Jest-2B2B2B?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
 
 </div>
 
 ---
 
-### 🎓 Current Focus: Sigma Prime (MERN + DevOps + AI/ML)
-I am currently undergoing the advanced **Sigma Prime** training program. Here is the curriculum/topics I am focusing on and mastering:
-
-#### 💻 Full-Stack Development (MERN)
-- **Frontend Core:** HTML5, CSS3 (Flexbox, Grid, Responsive Design), Javascript (ES6+, Async/Await, OOP)
-- **React.js:** Functional Components, Hooks (`useState`, `useEffect`, Custom Hooks), State Management, Context API, Material UI
-- **Backend & Database:** Node.js runtime, Express.js framework, MongoDB (NoSQL database modelling & integration)
-- **Backend Best Practices:** RESTful API design, Middlewares, MVC Architecture, Authentication, Error Handling & validation
-
-#### 🚀 DevOps & Cloud Engineering
-- **Containerization & Orchestration:** Dockerizing applications, container registry, Kubernetes orchestration
-- **CI/CD & Clouds:** Github Actions, automated testing, cloud deployment on AWS & Render
-
-#### 🧠 DSA & AI/ML Integrated Development
-- **Data Structures & Algorithms:** Arrays, Strings, Recursion, Linked Lists, Stacks, Queues, Binary Trees, BSTs, Heaps, Graphs, DP
-- **AI/ML Integration:** Model integration, LLM API consumption (OpenAI, Gemini), RAG (Retrieval-Augmented Generation) systems
-
----
-
-### 📈 GitHub Stats & Contribution Graph
-
 <div align="center">
 
-#### 📊 Dynamic Contribution Graph
+<h3 align="center"><font color="#F706CF">Mahesh Nandigam Contribution Graph</font></h3>
+
 ![Mahesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahesh-Nandigam&bg_color=0d1117&color=F706CF&line=F706CF&point=ffffff&area=true&hide_border=true)
 
 <br/>
 
-#### 🔥 Stats Overview
-![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahesh-Nandigam&show_icons=true&theme=dark&title_color=F706CF&icon_color=F706CF&text_color=ffffff&bg_color=0d1117&hide_border=true)
+<!-- GitHub Stats using the fixed Vercel deployment -->
+![Mahesh's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Mahesh-Nandigam&show_icons=true&theme=dark&title_color=F706CF&icon_color=F706CF&text_color=ffffff&bg_color=0d1117&hide_border=true)
 
 </div>
