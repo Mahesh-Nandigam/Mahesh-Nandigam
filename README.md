@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Mahesh-Nandigam&label=Profile+Views&color=F706CF&style=flat-square" alt="Profile Views" />
-
-<br/>
-
 <h1>Mahesh Nandigam 👨‍💻</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F706CF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Engineer;Open+Source+Contributor;Building+Cool+Things+on+the+Internet" alt="Typing Animation" />
