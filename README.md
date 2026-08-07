@@ -57,15 +57,15 @@
 
 ## Yo, this is Mahesh, a full-stack developer from India.
 
-I build projects in two ways:
-*   **Number one:** Projects built from scratch using docs and open-source projects.
-*   **Number two:** Projects that are assisted by AI.
+I do build projects in two ways:
+1. **Projects built from scratch** using docs and open-source projects.
+2. **Projects that are assisted by AI.**
 
 ---
 
 ### Projects built from scratch
 
-`:(){ :|:& };:`
+Coming Soon.....
 
 <br/>
 <br/>
