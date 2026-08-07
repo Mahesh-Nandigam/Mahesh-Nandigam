@@ -59,15 +59,26 @@
 
 ---
 
-<div align="center">
+Yo, this is Mahesh, full-stack developer from India. I do build projects in two ways. One is learning from docs, a traditional way. One is building projects from scratch using docs and open-source projects. Another thing is using AI, leveraging AI.
 
-<h3 align="center"><font color="#F706CF">MAHESH NANDIGAM's Contribution Graph</font></h3>
+### Projects built from scratch
 
-![Mahesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahesh-Nandigam&bg_color=0d1117&color=F706CF&line=F706CF&point=ffffff&area=true&hide_border=true&hide_title=true)
+`:(){ :|:& };:`
 
 <br/>
+<br/>
 
-<!-- GitHub Stats using the fixed Vercel deployment -->
-![Mahesh's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Mahesh-Nandigam&show_icons=true&theme=dark&title_color=F706CF&icon_color=F706CF&text_color=ffffff&bg_color=0d1117&hide_border=true)
+### Projects built using AI
 
-</div>
+*   [**hirepanel.ai**](https://github.com/Mahesh-Nandigam/hirepanel.ai) – A hiring tool that uses multiple agents to filter resumes, debate candidates, and find the best fit.
+*   [**applyjack**](https://github.com/Mahesh-Nandigam/applyjack) – An app assistant that takes the pain out of applying to jobs by personalizing your applications.
+*   [**foundercopilot.js**](https://github.com/Mahesh-Nandigam/foundercopilot.js) – A simple copilot to help founders draft plans and manage their early development tasks.
+*   [**hirepanel-hackathon**](https://github.com/Mahesh-Nandigam/hirepanel-hackathon) – A hackathon version of HirePanel that screens resumes in under 30 seconds.
+*   [**redrob-branker**](https://github.com/Mahesh-Nandigam/redrob-branker) – A fast pipeline that ranks large lists of candidates without relying on heavy external APIs.
+*   [**ecospeo**](https://github.com/Mahesh-Nandigam/ecospeo) – A dashboard tracking local environmental data and key metrics.
+*   [**civicpulse-ai**](https://github.com/Mahesh-Nandigam/civicpulse-ai) – A tool built to help cities analyze public data and make better civic decisions.
+*   [**alertgrid-ai**](https://github.com/Mahesh-Nandigam/alertgrid-ai) – An emergency response system to coordinate alerts and keep teams safe during critical events.
+*   [**pathfinder-ai**](https://github.com/Mahesh-Nandigam/pathfinder-ai) – A visual career mapping tool that helps you plan and simulate your future career paths.
+*   [**air-mouse-pro**](https://github.com/Mahesh-Nandigam/air-mouse-pro) – A project that lets you control your computer mouse using hand gestures and a camera.
+*   [**flowsphere-ai**](https://github.com/Mahesh-Nandigam/flowsphere-ai) – A software system for physical venues to monitor crowd flow using swarm intelligence.
+*   [**snake-game**](https://github.com/Mahesh-Nandigam/snake-game) – The classic old-school snake game built with canvas and clean javascript logic.
