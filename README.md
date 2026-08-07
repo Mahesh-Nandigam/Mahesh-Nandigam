@@ -61,9 +61,9 @@
 
 <div align="center">
 
-<h3 align="center"><font color="#F706CF">Mahesh Nandigam Contribution Graph</font></h3>
+<h3 align="center"><font color="#F706CF">MAHESH NANDIGAM's Contribution Graph</font></h3>
 
-![Mahesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahesh-Nandigam&bg_color=0d1117&color=F706CF&line=F706CF&point=ffffff&area=true&hide_border=true)
+![Mahesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahesh-Nandigam&bg_color=0d1117&color=F706CF&line=F706CF&point=ffffff&area=true&hide_border=true&hide_title=true)
 
 <br/>
 
