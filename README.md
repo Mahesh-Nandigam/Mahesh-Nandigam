@@ -6,7 +6,7 @@
 
 <h1>Mahesh Nandigam 👨‍💻</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F706CF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Engineer;Open+Source+Contributor;Tech+lover%2C+loving+the+tech+from+the+heart" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F706CF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Engineer;Open+Source+Contributor;Building+Cool+Things+on+the+Internet" alt="Typing Animation" />
 
 <br/>
 
