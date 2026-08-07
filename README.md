@@ -74,10 +74,10 @@ Coming Soon.....
 
 *   [**hirepanel.ai**](https://github.com/Mahesh-Nandigam/hirepanel.ai) – A hiring tool that uses multiple agents to filter resumes, debate candidates, and find the best fit.
 *   [**applyjack**](https://github.com/Mahesh-Nandigam/applyjack) – An app assistant that takes the pain out of applying to jobs by personalizing your applications.
-*   [**foundercopilot.js**](https://github.com/Mahesh-Nandigam/foundercopilot.js) – A simple copilot to help founders draft plans and manage their early development tasks.
-*   [**hirepanel-hackathon**](https://github.com/Mahesh-Nandigam/hirepanel-hackathon) – A hackathon version of HirePanel that screens resumes in under 30 seconds.
-*   [**redrob-branker**](https://github.com/Mahesh-Nandigam/redrob-branker) – A fast pipeline that ranks large lists of candidates without relying on heavy external APIs.
-*   [**ecospeo**](https://github.com/Mahesh-Nandigam/ecospeo) – A dashboard tracking local environmental data and key metrics.
+*   [**foundercopilot.os**](https://github.com/Mahesh-Nandigam/foundercopilot.os) – A simple copilot to help founders draft plans and manage their early development tasks.
+*   [**hirepanel_hackathon**](https://github.com/Mahesh-Nandigam/hirepanel_hackathon) – A hackathon version of HirePanel that screens resumes in under 30 seconds.
+*   [**redrob-candidate-tranker**](https://github.com/Mahesh-Nandigam/redrob-candidate-tranker) – A fast pipeline that ranks large lists of candidates without relying on heavy external APIs.
+*   [**ecospear**](https://github.com/Mahesh-Nandigam/ecospear) – A dashboard tracking local environmental data and key metrics.
 *   [**civicpulse-ai**](https://github.com/Mahesh-Nandigam/civicpulse-ai) – A tool built to help cities analyze public data and make better civic decisions.
 *   [**alertgrid-ai**](https://github.com/Mahesh-Nandigam/alertgrid-ai) – An emergency response system to coordinate alerts and keep teams safe during critical events.
 *   [**pathfinder-ai**](https://github.com/Mahesh-Nandigam/pathfinder-ai) – A visual career mapping tool that helps you plan and simulate your future career paths.
