@@ -51,47 +51,33 @@ I build projects in two ways:
 
 ---
 
-### 🛠️ 1. Projects built through my own intuition and understanding
+### Projects built through my own intuition and understanding
 
-* [**Scratch_Sidepanel**](https://github.com/Mahesh-Nandigam/Scratch_Sidepanel) — [[Live Demo]](https://scratchsidepanel-o7fvftt6o-mahesh-nandigams-projects.vercel.app)
-  * Responsive, lightweight interactive side panel interface hand-crafted completely from scratch using pure HTML, CSS, and vanilla JavaScript.
-
----
-
-### ⚡ 2. Projects built using AI
-
-* [**Flow-Sphere-AI**](https://github.com/Mahesh-Nandigam/Flow-Sphere-AI) — [[Live Demo]](https://flow-sphere-ai-ashen.vercel.app)
-  * Real-time crowd intelligence and physical venue control operating system featuring a multi-service FastAPI backend and React frontend.
-* [**Ecosphere**](https://github.com/Mahesh-Nandigam/Ecosphere) — [[Live Demo]](https://ecosphere-qkg43gmgq-mahesh-nandigams-projects.vercel.app)
-  * Habit-shifting carbon awareness web platform with interactive SVG living islands and empathetic coaching.
-* [**CivicPulse-AI**](https://github.com/Mahesh-Nandigam/CivicPulse-AI) — [[Live Demo]](https://civic-pulse-edpljow3i-mahesh-nandigams-projects.vercel.app)
-  * Next.js civic decision-intelligence assistant guiding citizens through elections, timelines, and ballot issues.
-* [**HirePanel.Ai**](https://github.com/Mahesh-Nandigam/HirePanel.Ai) — [[Live Demo]](https://hire-panel-ai.vercel.app)
-  * Autonomous recruiting engine powered by an agentic multi-LLM debate panel evaluating resumes and code history.
-* [**Alertgrid-ai**](https://github.com/Mahesh-Nandigam/Alertgrid-ai) — [[Live Demo]](https://alertgrid-ai.vercel.app)
-  * Real-time emergency response platform with AI decision support and automated Twilio voice alert broadcasting.
-* [**ApplyJack**](https://github.com/Mahesh-Nandigam/ApplyJack) — [[Live Demo]](https://apply-jack.vercel.app)
-  * Job application copilot that automates and customizes applications with personalized AI tailoring.
-* [**FounderCopilot.os**](https://github.com/Mahesh-Nandigam/FounderCopilot.os) — [[Live Demo]](https://founder-copilot-os.vercel.app)
-  * All-in-one productivity operating system and dashboard tailored for early-stage startup founders.
-* [**Pathfinder-AI**](https://github.com/Mahesh-Nandigam/Pathfinder-AI) — [[Live Demo]](https://pathfinder-nuitgjbwx-mahesh-nandigams-projects.vercel.app)
-  * Interactive career path visualizer and intelligent routing simulator built with React and Vite.
-* [**Suchana.ai**](https://github.com/Mahesh-Nandigam/Suchana.ai) — [[Live Demo]](https://suchana-3utnwh34m-mahesh-nandigams-projects.vercel.app)
-  * Intelligent announcement and organizational communication assistant.
-* [**hacker-house-goa-id-maker**](https://github.com/Mahesh-Nandigam/hacker-house-goa-id-maker) — [[Live Demo]](https://hacker-house-goa-id-maker.vercel.app)
-  * Interactive badge generator and event access ID maker.
-* [**portfolio**](https://github.com/Mahesh-Nandigam/portfolio) — [[Live Demo]](https://portfolio-mahesh-nandigams-projects.vercel.app)
-  * Personal developer portfolio showcasing full-stack projects, hackathon prototypes, and experience.
-* [**snake-game**](https://github.com/Mahesh-Nandigam/snake-game) — [[Live Demo]](https://snake-game-7j4n-7ykzcaj2f-mahesh-nandigams-projects.vercel.app)
-  * Classic retro arcade snake game built with HTML5 Canvas and JavaScript game-loop logic.
-* [**redrob-candidate-ranker**](https://github.com/Mahesh-Nandigam/redrob-candidate-ranker)
-  * Deterministic two-stage retrieval pipeline using FAISS and Sentence-Transformers to score and rank 100,000+ candidates.
-* [**air-mouse-pro**](https://github.com/Mahesh-Nandigam/air-mouse-pro)
-  * Computer vision air-gesture mouse controller powered by OpenCV and MediaPipe.
-* [**HirePanel_Hackathon**](https://github.com/Mahesh-Nandigam/HirePanel_Hackathon)
-  * Original hackathon edition of HirePanel with 30-second candidate screening loops.
-* [**Leetcode-Solutions**](https://github.com/Mahesh-Nandigam/Leetcode-Solutions)
-  * Handwritten C++ solutions with detailed algorithmic intuition, time-space complexities, and problem-solving patterns.
+1. [**Scratch_Sidepanel**](https://github.com/Mahesh-Nandigam/Scratch_Sidepanel) – A lightweight and responsive side panel interface built from scratch using pure HTML, CSS, and vanilla JavaScript.
 
 ---
 
+### Projects built using AI
+
+1. [**Flow-Sphere-AI**](https://github.com/Mahesh-Nandigam/Flow-Sphere-AI) – Real-time crowd intelligence and physical venue control operating system featuring a multi-service FastAPI backend and React frontend.
+2. [**Ecosphere**](https://github.com/Mahesh-Nandigam/Ecosphere) – A behavior-shifting carbon awareness web platform with interactive SVG living islands and personalized coaching.
+3. [**CivicPulse-AI**](https://github.com/Mahesh-Nandigam/CivicPulse-AI) – An intelligent civic decision-support platform that guides voters through ballot issues, timelines, and election procedures.
+4. [**HirePanel.Ai**](https://github.com/Mahesh-Nandigam/HirePanel.Ai) – An autonomous recruiting engine powered by an agentic multi-LLM debate panel evaluating resumes and code history.
+5. [**Alertgrid-ai**](https://github.com/Mahesh-Nandigam/Alertgrid-ai) – A real-time emergency response system with AI decision support and automated voice alert broadcasting via Twilio.
+6. [**ApplyJack**](https://github.com/Mahesh-Nandigam/ApplyJack) – An AI-powered job application copilot that personalizes resumes and automates application tracking.
+7. [**FounderCopilot.os**](https://github.com/Mahesh-Nandigam/FounderCopilot.os) – An all-in-one productivity operating system and dashboard tailored for early-stage startup founders.
+8. [**Pathfinder-AI**](https://github.com/Mahesh-Nandigam/Pathfinder-AI) – An interactive visualizer for career pathway simulation and graph-based routing algorithms built with React and Vite.
+9. [**Suchana.ai**](https://github.com/Mahesh-Nandigam/Suchana.ai) – A smart AI broadcast and communications assistant for teams and organizations.
+10. [**hacker-house-goa-id-maker**](https://github.com/Mahesh-Nandigam/hacker-house-goa-id-maker) – An interactive badge and ID pass generator tailored for hacker house events.
+11. [**portfolio**](https://github.com/Mahesh-Nandigam/portfolio) – A modern personal developer portfolio showcasing full-stack projects, hackathon prototypes, and technical experience.
+12. [**snake-game**](https://github.com/Mahesh-Nandigam/snake-game) – A classic retro arcade snake game implemented with HTML5 Canvas and JavaScript game logic.
+13. [**redrob-candidate-ranker**](https://github.com/Mahesh-Nandigam/redrob-candidate-ranker) – A deterministic two-stage retrieval pipeline using FAISS and Sentence-Transformers to evaluate and rank candidate profiles.
+14. [**air-mouse-pro**](https://github.com/Mahesh-Nandigam/air-mouse-pro) – A computer vision desktop utility that maps hand gestures to mouse cursor movements using OpenCV and MediaPipe.
+15. [**HirePanel_Hackathon**](https://github.com/Mahesh-Nandigam/HirePanel_Hackathon) – A rapid hackathon prototype of HirePanel designed to screen and debate applicant resumes in under 30 seconds.
+16. [**Leetcode-Solutions**](https://github.com/Mahesh-Nandigam/Leetcode-Solutions) – Handwritten C++ solutions with detailed algorithmic intuition, time-space complexities, and problem-solving patterns.
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ and continuous curiosity by Mahesh Nandigam</sub>
+</div>
