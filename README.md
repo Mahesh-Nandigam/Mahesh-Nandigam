@@ -95,6 +95,3 @@ I build projects in two ways:
 
 ---
 
-<div align="center">
-  <sub>Built with ❤️ and continuous curiosity by Mahesh Nandigam</sub>
-</div>
