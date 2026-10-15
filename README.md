@@ -76,5 +76,4 @@ I build projects in two ways:
 15. [**HirePanel_Hackathon**](https://github.com/Mahesh-Nandigam/HirePanel_Hackathon) – A rapid hackathon prototype of HirePanel designed to screen and debate applicant resumes in under 30 seconds.
 16. [**Leetcode-Solutions**](https://github.com/Mahesh-Nandigam/Leetcode-Solutions) – Handwritten C++ solutions with detailed algorithmic intuition, time-space complexities, and problem-solving patterns.
 
----
 
