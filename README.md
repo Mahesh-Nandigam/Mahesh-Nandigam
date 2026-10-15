@@ -43,31 +43,22 @@
 
 ---
 
-## 👋 Yo everyone, this is Mahesh, an Indian full-stack dev!
+## Hello, this is Mahesh, an Indian full-stack developer.
 
-Basically, I build projects in two distinct ways:
-
-1. **From Scratch (Pure Human Intuition & Docs):** Built by deep-diving into documentation, raw specifications, and first-principles intuition — just like how developers engineered software in 2012–2013 with clean code, fundamentals, and zero shortcuts.
-2. **AI & Agentic Prototyping (Hackathons & Weekend Builds):** Built during fast-paced hackathons, competitive events, or intense weekend sprints using Claude, LLMs, and agentic workflows to ship functional products rapidly.
+I build projects in two ways:
+1. **Projects built through my own intuition and understanding.**
+2. **Projects built using AI.**
 
 ---
 
-### 🛠️ 1. Projects Built by Own Intuition and Understanding (From Scratch)
-
-Hand-crafted software built first-principles style:
+### 🛠️ 1. Projects built through my own intuition and understanding
 
 * [**Scratch_Sidepanel**](https://github.com/Mahesh-Nandigam/Scratch_Sidepanel) — [[Live Demo]](https://scratchsidepanel-o7fvftt6o-mahesh-nandigams-projects.vercel.app)
-  * Responsive, lightweight side-panel UI built entirely from scratch using pure HTML, CSS, and vanilla JavaScript.
-* [**snake-game**](https://github.com/Mahesh-Nandigam/snake-game) — [[Live Demo]](https://snake-game-7j4n-7ykzcaj2f-mahesh-nandigams-projects.vercel.app)
-  * Retro arcade snake game built from first principles with pure JavaScript game-loop logic and HTML5 Canvas.
-* [**Leetcode-Solutions**](https://github.com/Mahesh-Nandigam/Leetcode-Solutions)
-  * Handwritten C++ solutions with detailed algorithmic intuition, time-space complexities, and problem-solving patterns.
+  * Responsive, lightweight interactive side panel interface hand-crafted completely from scratch using pure HTML, CSS, and vanilla JavaScript.
 
 ---
 
-### ⚡ 2. Projects Built Using AI & Agentic Systems (Hackathons & Rapid Builds)
-
-Full-stack production apps and intelligent engines built for hackathons and rapid prototyping:
+### ⚡ 2. Projects built using AI
 
 * [**Flow-Sphere-AI**](https://github.com/Mahesh-Nandigam/Flow-Sphere-AI) — [[Live Demo]](https://flow-sphere-ai-ashen.vercel.app)
   * Real-time crowd intelligence and physical venue control operating system featuring a multi-service FastAPI backend and React frontend.
@@ -90,13 +81,17 @@ Full-stack production apps and intelligent engines built for hackathons and rapi
 * [**hacker-house-goa-id-maker**](https://github.com/Mahesh-Nandigam/hacker-house-goa-id-maker) — [[Live Demo]](https://hacker-house-goa-id-maker.vercel.app)
   * Interactive badge generator and event access ID maker.
 * [**portfolio**](https://github.com/Mahesh-Nandigam/portfolio) — [[Live Demo]](https://portfolio-mahesh-nandigams-projects.vercel.app)
-  * Clean personal developer portfolio showcasing full-stack projects, hackathon prototypes, and experience.
+  * Personal developer portfolio showcasing full-stack projects, hackathon prototypes, and experience.
+* [**snake-game**](https://github.com/Mahesh-Nandigam/snake-game) — [[Live Demo]](https://snake-game-7j4n-7ykzcaj2f-mahesh-nandigams-projects.vercel.app)
+  * Classic retro arcade snake game built with HTML5 Canvas and JavaScript game-loop logic.
 * [**redrob-candidate-ranker**](https://github.com/Mahesh-Nandigam/redrob-candidate-ranker)
   * Deterministic two-stage retrieval pipeline using FAISS and Sentence-Transformers to score and rank 100,000+ candidates.
 * [**air-mouse-pro**](https://github.com/Mahesh-Nandigam/air-mouse-pro)
   * Computer vision air-gesture mouse controller powered by OpenCV and MediaPipe.
 * [**HirePanel_Hackathon**](https://github.com/Mahesh-Nandigam/HirePanel_Hackathon)
   * Original hackathon edition of HirePanel with 30-second candidate screening loops.
+* [**Leetcode-Solutions**](https://github.com/Mahesh-Nandigam/Leetcode-Solutions)
+  * Handwritten C++ solutions with detailed algorithmic intuition, time-space complexities, and problem-solving patterns.
 
 ---
 
