@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1>Mahesh Nandigam 👨‍💻</h1>
+# Mahesh Nandigam 👨‍💻
 
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F706CF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Engineer;Open+Source+Contributor;Building+Cool+Things+on+the+Internet" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F706CF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Engineer;Hackathon+Builder;Building+Cool+Things+on+the+Internet" alt="Typing Animation" />
 
 <br/>
 
@@ -16,71 +16,90 @@
 
 <!-- Languages & Core -->
 <img src="https://img.shields.io/badge/Python-2B2B2B?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C++-2B2B2B?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/C-2B2B2B?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 <img src="https://img.shields.io/badge/JavaScript-2B2B2B?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-<img src="https://img.shields.io/badge/SQL-2B2B2B?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/TypeScript-2B2B2B?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/C++-2B2B2B?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/HTML5_&_CSS3-2B2B2B?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 & CSS3" />
+<img src="https://img.shields.io/badge/SQL-2B2B2B?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
 
 <br/>
 
 <!-- Frontend & Styling -->
 <img src="https://img.shields.io/badge/ReactJS-2B2B2B?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS" />
-<img src="https://img.shields.io/badge/Redux-2B2B2B?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+<img src="https://img.shields.io/badge/Next.js-2B2B2B?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-2B2B2B?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Bootstrap-2B2B2B?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Vite-2B2B2B?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 
 <br/>
 
 <!-- Backend & Server -->
 <img src="https://img.shields.io/badge/Node.js-2B2B2B?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-2B2B2B?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 <img src="https://img.shields.io/badge/FastAPI-2B2B2B?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Flask-2B2B2B?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/Bun-2B2B2B?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
-<img src="https://img.shields.io/badge/MongoDB-2B2B2B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-
-<br/>
-
-<!-- DevOps, Testing & Realtime -->
+<img src="https://img.shields.io/badge/Express.js-2B2B2B?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 <img src="https://img.shields.io/badge/Docker-2B2B2B?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-2B2B2B?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/AWS-2B2B2B?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/CI%2FCD-2B2B2B?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
-<img src="https://img.shields.io/badge/WebSockets-2B2B2B?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets" />
-<img src="https://img.shields.io/badge/WebRTC-2B2B2B?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
-<img src="https://img.shields.io/badge/Jest-2B2B2B?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+<img src="https://img.shields.io/badge/Vercel-2B2B2B?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 
 </div>
 
 ---
 
-## Yo, this is Mahesh, a full-stack developer from India.
+## 👋 Yo everyone, this is Mahesh, an Indian full-stack dev!
 
-I do build projects in two ways:
-1. **Projects built from scratch** using docs and open-source projects.
-2. **Projects that are assisted by AI.**
+Basically, I build projects in two distinct ways:
+
+1. **From Scratch (Pure Human Intuition & Docs):** Built by deep-diving into documentation, raw specifications, and first-principles intuition — just like how developers engineered software in 2012–2013 with clean code, fundamentals, and zero shortcuts.
+2. **AI & Agentic Prototyping (Hackathons & Weekend Builds):** Built during fast-paced hackathons, competitive events, or intense weekend sprints using Claude, LLMs, and agentic workflows to ship functional products rapidly.
 
 ---
 
-### Projects built from scratch
+### 🛠️ 1. Projects Built by Own Intuition and Understanding (From Scratch)
 
-Coming Soon.....
+Hand-crafted software built first-principles style:
 
-<br/>
-<br/>
+* [**Scratch_Sidepanel**](https://github.com/Mahesh-Nandigam/Scratch_Sidepanel) — [[Live Demo]](https://scratchsidepanel-o7fvftt6o-mahesh-nandigams-projects.vercel.app)
+  * Responsive, lightweight side-panel UI built entirely from scratch using pure HTML, CSS, and vanilla JavaScript.
+* [**snake-game**](https://github.com/Mahesh-Nandigam/snake-game) — [[Live Demo]](https://snake-game-7j4n-7ykzcaj2f-mahesh-nandigams-projects.vercel.app)
+  * Retro arcade snake game built from first principles with pure JavaScript game-loop logic and HTML5 Canvas.
+* [**Leetcode-Solutions**](https://github.com/Mahesh-Nandigam/Leetcode-Solutions)
+  * Handwritten C++ solutions with detailed algorithmic intuition, time-space complexities, and problem-solving patterns.
 
-### Projects built using AI
+---
 
-*   [**hirepanel.ai**](https://github.com/Mahesh-Nandigam/hirepanel.ai) – A hiring tool that uses multiple agents to filter resumes, debate candidates, and find the best fit.
-*   [**applyjack**](https://github.com/Mahesh-Nandigam/applyjack) – An app assistant that takes the pain out of applying to jobs by personalizing your applications.
-*   [**foundercopilot.os**](https://github.com/Mahesh-Nandigam/foundercopilot.os) – A simple copilot to help founders draft plans and manage their early development tasks.
-*   [**hirepanel_hackathon**](https://github.com/Mahesh-Nandigam/hirepanel_hackathon) – A hackathon version of HirePanel that screens resumes in under 30 seconds.
-*   [**redrob-candidate-tranker**](https://github.com/Mahesh-Nandigam/redrob-candidate-tranker) – A fast pipeline that ranks large lists of candidates without relying on heavy external APIs.
-*   [**ecospear**](https://github.com/Mahesh-Nandigam/ecospear) – A dashboard tracking local environmental data and key metrics.
-*   [**civicpulse-ai**](https://github.com/Mahesh-Nandigam/civicpulse-ai) – A tool built to help cities analyze public data and make better civic decisions.
-*   [**alertgrid-ai**](https://github.com/Mahesh-Nandigam/alertgrid-ai) – An emergency response system to coordinate alerts and keep teams safe during critical events.
-*   [**pathfinder-ai**](https://github.com/Mahesh-Nandigam/pathfinder-ai) – A visual career mapping tool that helps you plan and simulate your future career paths.
-*   [**air-mouse-pro**](https://github.com/Mahesh-Nandigam/air-mouse-pro) – A project that lets you control your computer mouse using hand gestures and a camera.
-*   [**flowsphere-ai**](https://github.com/Mahesh-Nandigam/flowsphere-ai) – A software system for physical venues to monitor crowd flow using swarm intelligence.
-*   [**snake-game**](https://github.com/Mahesh-Nandigam/snake-game) – The classic old-school snake game built with canvas and clean javascript logic.
+### ⚡ 2. Projects Built Using AI & Agentic Systems (Hackathons & Rapid Builds)
+
+Full-stack production apps and intelligent engines built for hackathons and rapid prototyping:
+
+* [**Flow-Sphere-AI**](https://github.com/Mahesh-Nandigam/Flow-Sphere-AI) — [[Live Demo]](https://flow-sphere-ai-ashen.vercel.app)
+  * Real-time crowd intelligence and physical venue control operating system featuring a multi-service FastAPI backend and React frontend.
+* [**Ecosphere**](https://github.com/Mahesh-Nandigam/Ecosphere) — [[Live Demo]](https://ecosphere-qkg43gmgq-mahesh-nandigams-projects.vercel.app)
+  * Habit-shifting carbon awareness web platform with interactive SVG living islands and empathetic coaching.
+* [**CivicPulse-AI**](https://github.com/Mahesh-Nandigam/CivicPulse-AI) — [[Live Demo]](https://civic-pulse-edpljow3i-mahesh-nandigams-projects.vercel.app)
+  * Next.js civic decision-intelligence assistant guiding citizens through elections, timelines, and ballot issues.
+* [**HirePanel.Ai**](https://github.com/Mahesh-Nandigam/HirePanel.Ai) — [[Live Demo]](https://hire-panel-ai.vercel.app)
+  * Autonomous recruiting engine powered by an agentic multi-LLM debate panel evaluating resumes and code history.
+* [**Alertgrid-ai**](https://github.com/Mahesh-Nandigam/Alertgrid-ai) — [[Live Demo]](https://alertgrid-ai.vercel.app)
+  * Real-time emergency response platform with AI decision support and automated Twilio voice alert broadcasting.
+* [**ApplyJack**](https://github.com/Mahesh-Nandigam/ApplyJack) — [[Live Demo]](https://apply-jack.vercel.app)
+  * Job application copilot that automates and customizes applications with personalized AI tailoring.
+* [**FounderCopilot.os**](https://github.com/Mahesh-Nandigam/FounderCopilot.os) — [[Live Demo]](https://founder-copilot-os.vercel.app)
+  * All-in-one productivity operating system and dashboard tailored for early-stage startup founders.
+* [**Pathfinder-AI**](https://github.com/Mahesh-Nandigam/Pathfinder-AI) — [[Live Demo]](https://pathfinder-nuitgjbwx-mahesh-nandigams-projects.vercel.app)
+  * Interactive career path visualizer and intelligent routing simulator built with React and Vite.
+* [**Suchana.ai**](https://github.com/Mahesh-Nandigam/Suchana.ai) — [[Live Demo]](https://suchana-3utnwh34m-mahesh-nandigams-projects.vercel.app)
+  * Intelligent announcement and organizational communication assistant.
+* [**hacker-house-goa-id-maker**](https://github.com/Mahesh-Nandigam/hacker-house-goa-id-maker) — [[Live Demo]](https://hacker-house-goa-id-maker.vercel.app)
+  * Interactive badge generator and event access ID maker.
+* [**portfolio**](https://github.com/Mahesh-Nandigam/portfolio) — [[Live Demo]](https://portfolio-mahesh-nandigams-projects.vercel.app)
+  * Clean personal developer portfolio showcasing full-stack projects, hackathon prototypes, and experience.
+* [**redrob-candidate-ranker**](https://github.com/Mahesh-Nandigam/redrob-candidate-ranker)
+  * Deterministic two-stage retrieval pipeline using FAISS and Sentence-Transformers to score and rank 100,000+ candidates.
+* [**air-mouse-pro**](https://github.com/Mahesh-Nandigam/air-mouse-pro)
+  * Computer vision air-gesture mouse controller powered by OpenCV and MediaPipe.
+* [**HirePanel_Hackathon**](https://github.com/Mahesh-Nandigam/HirePanel_Hackathon)
+  * Original hackathon edition of HirePanel with 30-second candidate screening loops.
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ and continuous curiosity by Mahesh Nandigam</sub>
+</div>
